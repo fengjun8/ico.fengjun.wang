@@ -360,7 +360,7 @@ export default function ConvertSection() {
           />
           <Label htmlFor="file-upload" className="cursor-pointer flex flex-col items-center gap-2">
             <Upload className="h-8 w-8 text-muted-foreground" />
-            <span className="text-sm text-muted-foreground">点击此处上传文件</span>
+            <span className="text-sm text-muted-foreground">拖拽文件到此处或点击上传</span>
             <span className="text-xs text-muted-foreground">支持的格式：JPEG、PNG、GIF（最大5MB）</span>
           </Label>
         </div>
