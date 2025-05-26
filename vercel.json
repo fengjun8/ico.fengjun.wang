@@ -1,0 +1,9 @@
+{
+  "functions": {
+    "app/api/convert/route.ts": {
+      "memory": 512,
+      "maxDuration": 5
+    }
+  }
+}
+
