@@ -31,7 +31,7 @@ export default function RootLayout({
             var _hmt = _hmt || [];
             (function() {
               var hm = document.createElement("script");
-              hm.src = "https://hm.baidu.com/hm.js?百度统计ID";
+              hm.src = "https://hm.baidu.com/hm.js?1ed1451775a140fc3f977bec4298364e";
               var s = document.getElementsByTagName("script")[0]; 
               s.parentNode.insertBefore(hm, s);
             })();
