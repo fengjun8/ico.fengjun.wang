@@ -2,6 +2,7 @@
 
 import ConvertSection from "./components/convert-section"
 import DocumentationSection from "./components/documentation-section"
+import RelatedTools from "@/components/related-tools"
 import Link from "next/link"
 import { useState, useEffect } from "react"
 import { ChevronUp, ImageIcon } from "lucide-react"
@@ -49,6 +50,12 @@ export default function Home() {
           </div>
 
           <DocumentationSection />
+          
+          <RelatedTools 
+            category="common" 
+            maxTools={30} 
+            className="mt-8" 
+          />
         </div>
       </main>
 
