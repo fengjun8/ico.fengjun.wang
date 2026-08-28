@@ -1,7 +1,17 @@
 {
-  "name": "my-v0-project",
+  "name": "favicon-pub",
   "version": "0.1.0",
   "private": true,
+  "description": "在线制作 ICO / Favicon 图标工具：上传图片转换为 favicon.ico",
+  "license": "MIT",
+  "homepage": "https://favicon.pub",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fengjun8/favicon-pub.git"
+  },
+  "bugs": {
+    "url": "https://github.com/fengjun8/favicon-pub/issues"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -41,14 +51,12 @@
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
     "cmdk": "1.0.4",
-    "date-fns": "4.1.0",
     "embla-carousel-react": "8.5.1",
     "input-otp": "1.4.1",
     "lucide-react": "^0.454.0",
     "next": "15.2.4",
     "next-themes": "^0.4.4",
     "react": "^19",
-    "react-day-picker": "8.10.1",
     "react-dom": "^19",
     "react-hook-form": "^7.54.1",
     "react-resizable-panels": "^2.1.7",
