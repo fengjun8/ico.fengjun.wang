@@ -46,8 +46,8 @@
 
 ```bash
 # 1. 克隆仓库
-git clone https://github.com/fengjun8/favicon-pub.git
-cd favicon-pub
+git clone https://github.com/fengjun8/ico.fengjun.wang.git
+cd ico.fengjun.wang
 
 # 2. 安装依赖
 npm install        # 或 pnpm install

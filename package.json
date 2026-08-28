@@ -7,10 +7,10 @@
   "homepage": "https://favicon.pub",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fengjun8/favicon-pub.git"
+    "url": "git+https://github.com/fengjun8/ico.fengjun.wang.git"
   },
   "bugs": {
-    "url": "https://github.com/fengjun8/favicon-pub/issues"
+    "url": "https://github.com/fengjun8/ico.fengjun.wang/issues"
   },
   "scripts": {
     "dev": "next dev",
